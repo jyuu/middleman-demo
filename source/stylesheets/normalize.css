@@ -1,3 +1,32 @@
+html, body {
+      margin: 0;
+      padding: 0;
+      height:100%;
+  }
+    
+#r {
+      padding: 20px;
+      background-color: #D3D3D3;
+      text-align: center;
+      overflow-y: scroll;
+      height:100%;
+      width:75%;
+  }
+    
+#l {
+      position: fixed;
+      top: 0;
+      right: 0;
+      width: 10%;
+      height: 100%;
+      background-color: #00000;
+      border-left: 0px solid #353535;
+      padding: 80px;
+  }
+
+
+
+
 /*! normalize.css v2.0.1 | MIT License | git.io/normalize */
 
 /* ==========================================================================
